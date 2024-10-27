@@ -1,0 +1,26 @@
+body {
+    height: 8000vh;
+}
+
+
+.service{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: blueviolet;
+    background-color: #f0f0f0;
+}
+.card .card-title {
+    color: aqua;
+}
+.card .special {
+    color: blue;
+}
+.form {
+    width: 500px;
+    margin: auto;
+}
+.papa-color {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
